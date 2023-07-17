@@ -1,5 +1,5 @@
 # CW2YLV
-Easily migrate to high-performance and secure Classic server software MCYeti.
+Easily migrate to high-performance and secure Classic server software [MCYeti](https://github.com/yeti0904/MCYeti).
 
 <img src="https://github.com/minecraft8997/MCYeti/raw/main/img/logo.png" style="width:300px;">
 
